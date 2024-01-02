@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy <a href="">Ariane Vargas</a> 👋</h1>
 </div>
 
-👩‍💻
+👩‍💻 Soy estudiante de analisis y desarrollo de software. Me encanta aprender nuevas habilidades. Actualmente estoy enfocado en 
+    aprender JavaScript 
 
 ## ⛏ Lenguajes y Herramientas:
 
@@ -20,12 +21,26 @@
 
 ## Sobre mí:
 
-- ⭐ Github Star ⭐
-- 📲 Frontend developer
-- 💻 Backend developer
+- 🌐 **Desarrollo Frontend:**
+  - Experiencia con HTML, CSS, JavaScript.
+  - Utilizo librerías y frameworks como React.js y Vue.js para construir interfaces modernas y dinámicas.
+  - Diseño responsivo y accesibilidad son prioridades en mis proyectos.
+
+- 💻 **Desarrollo Backend:**
+  - Trabajo con Node.js para construir servidores y lógica de negocio.
+  - Manejo de bases de datos, como MongoDB y PostgreSQL.
+  - Desarrollo de APIs RESTful y GraphQL.
+
+- 🚀 **Herramientas y Otros:**
+  - Git para control de versiones.
+  - Experiencia con Bootstrap y Tailwind CSS.
+  - Participación activa en la comunidad open source.
+    
 
 ### ⚙️ GitHub Analytics
 
 ![ArianeVargas's Stats](https://github-readme-stats.vercel.app/api?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![ArianeVargas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArianeVargas&theme=vue-dark&hide_border=false)
 ![ArianeVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+¡Gracias por visitar mi perfil! 🚀
