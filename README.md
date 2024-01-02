@@ -7,13 +7,13 @@
 ## ⛏ Lenguajes y Herramientas:
 
 <div>
-<img src="/img/file-html-solid-24.png" width="50" height="50">
-<img src="/img/file-css-solid-24.png" width="50" height="50">
-<img src="/img/bootstrap-logo-24.png" width="50" height="50">
-<img src="/img/tailwind-css-logo-24.png" width="50" height="50">
-<img src="/img/file-js-solid-24.png" width="50" height="50">
-<img src="/img/nodejs-logo-24.png" width="50" height="50">
-<img src="/img/git-logo-24.png" width="50" height="50">
+<img src="/img/file-html-solid-24.png" width="40" height="40">
+<img src="/img/file-css-solid-24.png" width="40" height="40">
+<img src="/img/bootstrap-logo-24.png" width="40" height="40">
+<img src="/img/tailwind-css-logo-24.png" width="40" height="40">
+<img src="/img/file-js-solid-24.png" width="40" height="40">
+<img src="/img/nodejs-logo-24.png" width="40" height="40">
+<img src="/img/git-logo-24.png" width="40" height="40">
 </div>
 
 ## Sobre mí:
