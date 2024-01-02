@@ -1,24 +1,27 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="">Ariane Vargas</a> 👋</h1>
-</div>
+# Hola, soy [Ariane Vargas](#)
 
-<img src="/img/goran-ivos-idmvPhF8t4E-unsplash.jpg">
+![Ariane's Photo](/img/goran-ivos-idmvPhF8t4E-unsplash.jpg)
 
-## ⛏ lenguages and tools:
+## ⛏ Lenguajes y Herramientas:
 
-<div>
-<img src="/img/html-5.png" title="HTML" width="50" height="50"> 
-<img src="/img/css-3.png" title="css" width="50" height="50">
-<img src="/img/js.png" title="JavaScript" width="50" height="50">
-<img src="/img/nodejs.png" title="nodeJS" width="50" height="50">
-<img src="/img/unir.png" title="Git" width="50" height="50">
-</div>
+![HTML](/img/file-html-solid-24.png)
+![CSS](/img/file-css-solid-24.png)
+![Bootstrap](/img/bootstrap-logo-24.png)
+![Tailwind](/img/tailwind-css-logo-24.png)
+![JavaScript](/img/file-js-solid-24.png)
+![Node.js](/img/nodejs-logo-24.png)
+![Git](/img/git-logo-24.png)
 
-## Sobre mi
+## Sobre mí:
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Star ⭐
 - 📲 Frontend developer
 - 💻 Backend developer
 
+### ⚙️ GitHub Analytics
 
-### ⚙️ &nbsp;GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianeVargas&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ArianeVargas.ArianeVargas)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArianeVargas)
+
+
