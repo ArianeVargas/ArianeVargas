@@ -2,9 +2,6 @@
 <h1 align="center">Hola, soy <a href="">Ariane Vargas</a> 👋</h1>
 </div>
 
-👩‍💻 Soy estudiante de analisis y desarrollo de software. Me encanta aprender nuevas habilidades. Actualmente estoy enfocado en 
-    aprender JavaScript 
-
 ## ⛏ Lenguajes y Herramientas:
 
 <div>
@@ -40,7 +37,6 @@
 ### ⚙️ GitHub Analytics
 
 ![ArianeVargas's Stats](https://github-readme-stats.vercel.app/api?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![ArianeVargas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArianeVargas&theme=vue-dark&hide_border=false)
 ![ArianeVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ¡Gracias por visitar mi perfil! 🚀
