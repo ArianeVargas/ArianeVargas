@@ -2,18 +2,20 @@
 <h1 align="center">Hola, soy <a href="">Ariane Vargas</a> 👋</h1>
 </div>
 
-<img src="./img/goran-ivos-idmvPhF8t4E-unsplash.jpg" width="500" height="200">
+<img src="./img/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg" width="500" height="200">
 
 ## ⛏ Lenguajes y Herramientas:
 
 <div>
-<img src="/img/file-html-solid-24.png" width="40" height="40">
-<img src="/img/file-css-solid-24.png" width="40" height="40">
-<img src="/img/bootstrap-logo-24.png" width="40" height="40">
-<img src="/img/tailwind-css-logo-24.png" width="40" height="40">
-<img src="/img/file-js-solid-24.png" width="40" height="40">
-<img src="/img/nodejs-logo-24.png" width="40" height="40">
-<img src="/img/git-logo-24.png" width="40" height="40">
+<img src="/img/kisspng-web-development-html-responsive-web-design-logo-ja-html-5ae04a9526c592.7493066215246485971588.png" width="40" height="40">
+<img src="/img/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be5eed10.7390827615242446703888.png" width="40" height="40">
+<img src="/img/kisspng-bootstrap-logo-computer-software-web-application-p-b-5abb6c2ab15640.3860806115222323627264.png" width="40" height="40">
+<img src="/img/kisspng-javascript-portable-network-graphics-logo-clip-art-javascript-programs-amp-output-apps-on-google-5b69409b183213.5468079715336244750991.png" width="40" height="40">
+<img src="/img/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1c091993.8950282915318871320373.png" width="40" height="40">
+<img src="/img/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c70f0195.6239386615317498310615.png" width="40" height="40">
+<img src="/img/kisspng-npm-node-js-computer-icons-computer-software-insta-5b278c9a7f3538.4925424915293185545211.png" width="40" height="40">
+<img src="/img/kisspng-github-repository-commit-version-control-github-5ab8bdf71d6218.7448464515220566951204.png" width="40" height="40">
+<img src="/img/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf7831a5909.5705156015285594911079.png" width="40" height="40">
 </div>
 
 ## Sobre mí:
