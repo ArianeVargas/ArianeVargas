@@ -20,18 +20,17 @@
 
 - 🌐 **Desarrollo Frontend:**
   - Experiencia con HTML, CSS, JavaScript.
-  - Utilizo librerías y frameworks como React.js y Vue.js para construir interfaces modernas y dinámicas.
+  - Utilizo librerías y frameworks como Vue.js para construir interfaces modernas y dinámicas.
   - Diseño responsivo y accesibilidad son prioridades en mis proyectos.
 
 - 💻 **Desarrollo Backend:**
-  - Trabajo con Node.js para construir servidores y lógica de negocio.
-  - Manejo de bases de datos, como MongoDB y PostgreSQL.
-  - Desarrollo de APIs RESTful y GraphQL.
+  - Trabajo con Node.js para construir servidores.
+  - Manejo de bases de datos, como MongoDB.
+  - Desarrollo de APIs RESTful.
 
 - 🚀 **Herramientas y Otros:**
   - Git para control de versiones.
   - Experiencia con Bootstrap y Tailwind CSS.
-  - Participación activa en la comunidad open source.
     
 
 ### ⚙️ GitHub Analytics
