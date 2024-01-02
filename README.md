@@ -2,7 +2,9 @@
 <h1 align="center">Hola, soy <a href="">Ariane Vargas</a> 👋</h1>
 </div>
 
-<img src="./img/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg" width="500" height="200">
+<div style="text-align: center; display: flex; align-items: center;">
+  <img src="./img/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg" alt="Imagen centrada">
+</div>
 
 ## ⛏ Lenguajes y Herramientas:
 
