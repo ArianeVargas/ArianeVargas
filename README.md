@@ -7,11 +7,11 @@
 ## ⛏ lenguages and tools:
 
 <div>
-<img src="/img/html-5.png">
-<img src="/img/css-3.png">
-<img src="/img/js.png">
-<img src="/img/nodejs.png">
-<img src="/img/unir.png">
+<img src="/img/html-5.png" title="HTML" width="50" height="50"> 
+<img src="/img/css-3.png" title="css" width="50" height="50">
+<img src="/img/js.png" title="JavaScript" width="50" height="50">
+<img src="/img/nodejs.png" title="nodeJS" width="50" height="50">
+<img src="/img/unir.png" title="Git" width="50" height="50">
 </div>
 
 ## Sobre mi
