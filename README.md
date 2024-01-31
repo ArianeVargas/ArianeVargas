@@ -35,7 +35,8 @@
 
 ### ⚙️ GitHub Analytics
 
-![ArianeVargas's Stats](https://github-readme-stats.vercel.app/api?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![ArianeVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeVargas&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![ArianeVargas's Stats](https://github-readme-stats.vercel.app/api?username=ArianeVargas&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![ArianeVargas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArianeVargas&theme=dark&hide_border=true)
+![ArianeVargas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeVargas&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ¡Gracias por visitar mi perfil! 🚀
