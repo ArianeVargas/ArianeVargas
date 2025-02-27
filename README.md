@@ -4,7 +4,7 @@
 
 ## ⛏ Lenguajes y Herramientas:
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: white; padding: 20px; gap: 15px; flex-wrap: wrap;">
+<div>
     <img src="img/html5.svg" alt="HTML5 Logo" width="60">
     <img src="img/css.svg" alt="CSS3 Logo" width="60">
     <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="60">
@@ -14,6 +14,7 @@
     <img src="img/keycloak.svg" alt="Keycloak Logo" width="60">
     <img src="img/docker.svg" alt="Docker Logo" width="60">
 </div>
+
 
 ## Sobre mí:
 
