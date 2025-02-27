@@ -4,15 +4,15 @@
 
 ## ⛏ Lenguajes y Herramientas:
 
-<div style="text-align: center; background-color: white; padding: 20px;">
-    <img src="img/html5.svg" alt="HTML5 Logo" width="60">
-    <img src="img/css.svg" alt="CSS3 Logo" width="60">
-    <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="60">
-    <img src="img/javascript.svg" alt="JavaScript Logo" width="60">
-    <img src="img/spring.svg" alt="Spring Framework Logo" width="60">
-    <img src="img/springsecurity.svg" alt="Spring Security Logo" width="60">
-    <img src="img/keycloak.svg" alt="Keycloak Logo" width="60">
-    <img src="img/docker.svg" alt="Docker Logo" width="60">
+<div style="display: flex; justify-content: center; align-items: center; background-color: white; padding: 20px; gap: 15px;">
+    <img src="img/html5.svg" alt="HTML5 Logo" width="60" style="filter: invert(1);">
+    <img src="img/css.svg" alt="CSS3 Logo" width="60" style="filter: invert(1);">
+    <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="60" style="filter: invert(1);">
+    <img src="img/javascript.svg" alt="JavaScript Logo" width="60" style="filter: invert(1);">
+    <img src="img/spring.svg" alt="Spring Framework Logo" width="60" style="filter: invert(1);">
+    <img src="img/springsecurity.svg" alt="Spring Security Logo" width="60" style="filter: invert(1);">
+    <img src="img/keycloak.svg" alt="Keycloak Logo" width="60" style="filter: invert(1);">
+    <img src="img/docker.svg" alt="Docker Logo" width="60" style="filter: invert(1);">
 </div>
 
 
