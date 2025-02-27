@@ -4,9 +4,17 @@
 
 ## ⛏ Lenguajes y Herramientas:
 
-<div>
-
+<div style="text-align: center;">
+    <img src="img/html.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/css.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/javascript.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/spring.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/springsecurity.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/keycloak.svg" alt="Tailwind CSS Logo" width="100">
+    <img src="img/docker.svg" alt="Tailwind CSS Logo" width="100">
 </div>
+
 
 ## Sobre mí:
 
