@@ -5,14 +5,14 @@
 ## ⛏ Lenguajes y Herramientas:
 
 <div>
-    <img src="img/html5.svg" alt="HTML5 Logo" width="60">
-    <img src="img/css.svg" alt="CSS3 Logo" width="60">
-    <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="60">
-    <img src="img/javascript.svg" alt="JavaScript Logo" width="60">
-    <img src="img/spring.svg" alt="Spring Framework Logo" width="60">
-    <img src="img/springsecurity.svg" alt="Spring Security Logo" width="60">
-    <img src="img/keycloak.svg" alt="Keycloak Logo" width="60">
-    <img src="img/docker.svg" alt="Docker Logo" width="60">
+    <img src="img/html5.svg" alt="HTML5 Logo" width="40">
+    <img src="img/css.svg" alt="CSS3 Logo" width="40">
+    <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="40">
+    <img src="img/javascript.svg" alt="JavaScript Logo" width="40">
+    <img src="img/spring.svg" alt="Spring Framework Logo" width="40">
+    <img src="img/springsecurity.svg" alt="Spring Security Logo" width="40">
+    <img src="img/keycloak.svg" alt="Keycloak Logo" width="40">
+    <img src="img/docker.svg" alt="Docker Logo" width="40">
 </div>
 
 
