@@ -4,7 +4,7 @@
 
 ## ⛏ Lenguajes y Herramientas:
 
-<div style="text-align: center; background-color: white; padding: 20px;">
+<div style="text-align: center; background-color: white; padding: 20px; align="center">
     <img src="img/html5.svg" alt="HTML5 Logo" width="60">
     <img src="img/css.svg" alt="CSS3 Logo" width="60">
     <img src="img/tailwindcss.svg" alt="Tailwind CSS Logo" width="60">
