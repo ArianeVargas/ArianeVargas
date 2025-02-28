@@ -37,7 +37,7 @@
 - Apache Kafka: Mensajería en tiempo real para comunicación entre servicios.
 
 🔒 **Seguridad y Autenticación:**
-- Implementación de Spring Security básico (sin JWT).
+- Implementación de Spring Security básico con JWT.
 - Uso de Keycloak para autenticación y autorización.
 - Dockerización de servicios para despliegue en entornos controlados.
 
